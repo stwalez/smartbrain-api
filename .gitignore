@@ -1,0 +1,4 @@
+# Dont upload the modules below
+ 
+
+node_modules/
